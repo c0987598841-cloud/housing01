@@ -1,7 +1,0 @@
-{
-  "name": "台灣房價與實價登錄查詢",
-  "description": "提供台灣各縣市行政區中古屋待售清單、近5筆實價登錄明細與每坪房價走勢視覺化圖表分析",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
-
